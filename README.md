@@ -68,4 +68,9 @@ waveletFunction = 'db8';
 </code></pre>
 
 파워스펙트럼(푸리에 변환)을 이용하여 노이즈 제거 후 뇌파의 종류별로 데이터 재검출</br>
+Delta : 0~4Hz</br>
+Theta: 4~8Hz</br>
+Alpha: 8~12Hz</br>
+Beta: 12~30Hz</br>
+Gamma: 30~50Hz</br>
 <img src="IMAGE/POWER_SPECTRUM.png"/>
