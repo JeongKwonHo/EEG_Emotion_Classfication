@@ -81,3 +81,23 @@ Gamma: 30 ~ 50Hz</br>
 • EEG signal data from 10 people showed 82% emotion classification</br>
 • Combination with other signals such as ECG and EMG will give you a higher level of accuracy.</br>
 <img src="IMAGE/Decision_Tree.png"/>
+
+
+classification.m
+classification raw data by image
+
+filter.m
+Change the first line file name to the desired file
+Classify EEG data of file by each frequency
+
+filter2.m
+Classify EEG data of file by each frequency
+Normalization with sorted files 0 ~ 1
+Extraction and classification of mean, std, var by frequency
+
+decision_tree.m
+decision tree generation file
+The final_data.mat file is required.
+
+
+
