@@ -18,8 +18,8 @@ Data 폴더에 위치한 데이터들은 .mat 파일의 확장자를 가지고 �
 <br/><img src="IMAGE/DATA.png"/>
 
 ## EEG 8개 단자
-AF3 / AF4 – 인지, 감성, 정신적 기능을 담당하는 전두엽
-T7/ T8 – 청각을 담당하는 측두엽
-PO3 / PO4 – 시각을 담당하는 후두엽
-FC1 / FC2 
+AF3 / AF4 – 인지, 감성, 정신적 기능을 담당하는 전두엽<br/>
+T7/ T8 – 청각을 담당하는 측두엽<br/>
+PO3 / PO4 – 시각을 담당하는 후두엽<br/>
+FC1 / FC2 <br/>
 <br/><img src="IMAGE/EEG_8.png"/>
