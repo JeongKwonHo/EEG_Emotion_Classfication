@@ -83,19 +83,20 @@ Gamma: 30 ~ 50Hz</br>
 <img src="IMAGE/Decision_Tree.png"/>
 
 
-classification.m
+##Emotion FILE <br/>
+classification.m<br/>
 classification raw data by image
 
-filter.m
+filter.m<br/>
 Change the first line file name to the desired file
 Classify EEG data of file by each frequency
 
-filter2.m
+filter2.m<br/>
 Classify EEG data of file by each frequency
 Normalization with sorted files 0 ~ 1
 Extraction and classification of mean, std, var by frequency
 
-decision_tree.m
+decision_tree.m<br/>
 decision tree generation file
 The final_data.mat file is required.
 
