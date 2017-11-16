@@ -68,11 +68,16 @@ waveletFunction = 'db8';
 </code></pre>
 
 파워스펙트럼(푸리에 변환)을 이용하여 노이즈 제거 후 뇌파의 종류별로 데이터 재검출</br>
-Delta : 0~4Hz</br>
-Theta: 4~8Hz</br>
-Alpha: 8~12Hz</br>
-Beta: 12~30Hz</br>
-Gamma: 30~50Hz</br>
+Delta : 0 ~ 4Hz</br>
+Theta: 4 ~ 8Hz</br>
+Alpha: 8 ~ 12Hz</br>
+Beta: 12 ~ 30Hz</br>
+Gamma: 30 ~ 50Hz</br>
 <img src="IMAGE/POWER_SPECTRUM.png"/>
 
 ## Conclusion Using Decision Tree
+•  In the case of EMG data, it can be confirmed that the signal is large when 'pleasant' and the signal is small when 'unpleasant'.
+• 86% for pleasure images, 88% for unpleasure images, and 70% for neutral images.
+• EEG signal data from 10 people showed 82% emotion classification
+• Combination with other signals such as ECG and EMG will give you a higher level of accuracy.
+<img src="IMAGE/Decision_Tree.png"/>
