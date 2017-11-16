@@ -67,3 +67,5 @@ waveletFunction = 'db8';
                 %subplot(5,1,5);plot(1:1:length(Delta),Delta);title('DELTA');
 </code></pre>
 
+파워스펙트럼(푸리에 변환)을 이용하여 노이즈 제거 후 뇌파의 종류별로 데이터 재검출</br>
+<img src="IMAGE/POWER_SPECTRUM.png"/>
