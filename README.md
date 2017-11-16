@@ -74,3 +74,5 @@ Alpha: 8~12Hz</br>
 Beta: 12~30Hz</br>
 Gamma: 30~50Hz</br>
 <img src="IMAGE/POWER_SPECTRUM.png"/>
+
+## Conclusion Using Decision Tree
