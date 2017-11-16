@@ -83,7 +83,7 @@ Gamma: 30 ~ 50Hz</br>
 <img src="IMAGE/Decision_Tree.png"/>
 
 
-##Emotion FILE <br/>
+## Emotion File Explanation
 classification.m<br/>
 classification raw data by image
 
