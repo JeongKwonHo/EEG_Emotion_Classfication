@@ -76,8 +76,8 @@ Gamma: 30 ~ 50Hz</br>
 <img src="IMAGE/POWER_SPECTRUM.png"/>
 
 ## Conclusion Using Decision Tree
-•  In the case of EMG data, it can be confirmed that the signal is large when 'pleasant' and the signal is small when 'unpleasant'.
-• 86% for pleasure images, 88% for unpleasure images, and 70% for neutral images.
-• EEG signal data from 10 people showed 82% emotion classification
-• Combination with other signals such as ECG and EMG will give you a higher level of accuracy.
+•  In the case of EMG data, it can be confirmed that the signal is large when 'pleasant' and the signal is small when 'unpleasant'.</br>
+• 86% for pleasure images, 88% for unpleasure images, and 70% for neutral images.</br>
+• EEG signal data from 10 people showed 82% emotion classification</br>
+• Combination with other signals such as ECG and EMG will give you a higher level of accuracy.</br>
 <img src="IMAGE/Decision_Tree.png"/>
