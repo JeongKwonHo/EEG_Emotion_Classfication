@@ -25,7 +25,7 @@ FC1 / FC2 <br/>
 <br/><img src="IMAGE/EEG_8.png"/>
 
 ## Data Organization and trim some noise
-matlab 내의 Wavelet Analyser 앱을 이용하여 파워스펙트럼 분석 실시
+matlab 내의 Wavelet Analyser 앱을 이용하여 파워스펙트럼 분석 실시한다.
 <pre><code>
 waveletFunction = 'db8';
                 [C,L] = wavedec(s,8,waveletFunction);
@@ -66,3 +66,4 @@ waveletFunction = 'db8';
                 %figure, plot(0:1/fs:1,Delta);
                 %subplot(5,1,5);plot(1:1:length(Delta),Delta);title('DELTA');
 </code></pre>
+
