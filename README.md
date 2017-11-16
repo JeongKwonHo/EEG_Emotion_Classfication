@@ -5,4 +5,4 @@ EEG_Emotion_Classification은 pleasure, neutral, unpleasure 감정을 의도한 
 
 ## Features
 Data 폴더에 위치한 데이터들은 .mat 파일의 확장자를 가지고 있으며 피실험자는 총 18개의 영상을 시청하고 다음 영상을 방해하는 노이즈를 최대한 줄이기 위해 30초씩 휴식을 취한다. 데이터는 2x18의 셀로 이루어져 있으며 1행은 영상을 보면서 추출된 데이터이고, 2행은 30초마다의 휴식 기간의 데이터이다. 각 열은 서로 다른 18개의 영상을 나타낸 것이다.
-![2x18 cell](CELL.png)
+<br/><img src="IMAGE/CELL.png"/>
