@@ -101,4 +101,18 @@ decision tree generation file
 The final_data.mat file is required.
 
 
+## Video & Data 
+
+Experimental Video
+•  https://drive.google.com/open?id=0B6_fmgiYIb1gaXlDbHJTdUM3Mms
+•  https://youtu.be/hn3vPo-fbcM
+
+
+DATA
+• https://drive.google.com/open?id=0B6_fmgiYIb1gUW11SWdIZnhaM1k
+• https://drive.google.com/open?id=0B1jZoE1S4pdSOVZZOU5lQXhkN00
+
+
+
+
 
