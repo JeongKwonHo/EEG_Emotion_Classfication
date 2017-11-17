@@ -103,14 +103,14 @@ The final_data.mat file is required.
 
 ## Video & Data 
 
-Experimental Video
-•  https://drive.google.com/open?id=0B6_fmgiYIb1gaXlDbHJTdUM3Mms
-•  https://youtu.be/hn3vPo-fbcM
+Experimental Video<br/>
+•  https://drive.google.com/open?id=0B6_fmgiYIb1gaXlDbHJTdUM3Mms<br/>
+•  https://youtu.be/hn3vPo-fbcM<br/>
 
 
 DATA
-• https://drive.google.com/open?id=0B6_fmgiYIb1gUW11SWdIZnhaM1k
-• https://drive.google.com/open?id=0B1jZoE1S4pdSOVZZOU5lQXhkN00
+• https://drive.google.com/open?id=0B6_fmgiYIb1gUW11SWdIZnhaM1k<br/>
+• https://drive.google.com/open?id=0B1jZoE1S4pdSOVZZOU5lQXhkN00<br/>
 
 
 
